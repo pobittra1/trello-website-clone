@@ -1,0 +1,331 @@
+
+
+
+/* fpage design strat here */
+
+
+.navbar-brand{
+    font-weight: 2000;
+    background-color: #EFECFF;
+}
+
+
+#h1-style{
+    font-family: 'Charis SIL', serif;
+}
+
+.p-style{
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 1.3rem;
+}
+/* .navbar-text-stle{
+    font-family: 'Chakra Petch', sans-serif;
+
+} */
+
+
+
+.f-inp{
+    padding: 12px 10px;
+    margin: 12px 0px;
+    outline: none;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 4px;
+    background-color: transparent;
+}
+
+.fpage button{
+    color: white;
+    font-family: 'Chakra Petch', sans-serif;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+/* fpage design end here */
+
+
+
+
+
+
+
+
+
+
+/* second page start here */
+
+.spage{
+    position: relative;
+}
+
+.spage img{
+    width: 40px;
+
+}
+
+.spage h3{
+    font-family: 'Charis SIL', serif;
+    font-size: 1.6rem;
+    font-weight: 500;
+    margin-bottom: 12px;
+
+}
+.spage p{
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 1rem;
+    font-weight: 560;
+}
+
+.spage button{
+    font-family: 'Chakra Petch', sans-serif;
+
+}
+/* second page end here */
+
+
+
+
+
+
+
+
+
+
+/* third page start here */
+.tpage h2{
+    font-family: 'Charis SIL', serif;
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+.tpage p{
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 1rem;
+    font-weight: 560;
+    font-size: 20px;
+}
+
+.tpage button{
+    font-family: 'Chakra Petch', sans-serif;
+
+}
+.tpage img{
+    width: 98%;
+}
+
+
+.tpage .logodiv1 img , .tpage .logodiv2 img{
+    width: 180px;
+}
+
+/* third page end here */
+
+
+
+
+
+
+/* features forth page start here */
+.fopage h2{
+    font-family: 'Charis SIL', serif;
+    font-size: 2rem;
+    font-weight: 500;
+    margin: 12px 0px 22px 0px;
+}
+.fopage p{
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 1rem;
+    font-weight: 560;
+    font-size: 20px;
+}
+.fopage img{
+    width: 100%;
+}
+.fopage{
+    margin: 92px 0px !important;
+}
+
+.fopage span{
+    font-family: 'Charis SIL', serif;
+    font-weight: 600;
+
+}
+
+
+/* features forth page end here */
+
+
+
+
+
+
+
+
+/* carousel div start here */
+
+.cr-img{
+    width: 100%;
+}
+
+.for-position{
+    position: relative;
+}
+
+
+.searchdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px 40px;
+    border-radius: 4px;
+    background-image: linear-gradient(to bottom , rgb(90, 47, 47) , rgb(62, 129, 62));
+    position: absolute;
+    width: 80%;
+    height: 250px;
+    bottom: -100px;
+
+}
+.searchdiv h3{
+    color: white;
+    font-family: 'Charis SIL', serif;
+
+
+}
+.searchdiv input{
+    background-color: white !important;
+    color: gray !important;
+    outline: none !important;
+    border: none !important;
+}
+
+.searchdiv button{
+    font-family: 'Charis SIL', serif;
+    padding: 8px 26px !important;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    margin-top: 12px;
+}
+/* carousel div end here */
+
+
+
+
+/* play store div start here */
+
+.play-store-div{
+    margin-top: 200px;
+    margin-bottom: 20px;
+    margin-left: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.play-store-div P{
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 1rem;
+    font-weight: 560;
+    font-size: 20px;
+    padding-right: 50px;
+    margin-top: 15px;
+}
+
+
+.play-store-div img{
+    width: 120px;
+}
+.play-store-div img:nth-child(1){
+  
+}
+
+
+
+/* play store div end here */
+
+
+
+/* footer design start here */
+.trello-footer .col-2{
+    /* margin: 20px 0px; */
+}
+
+
+
+.trello-footer h1{
+    font-family: 'Charis SIL', serif;
+    font-size: 2rem;
+    font-weight: 800;
+    text-shadow: 0px 0px 10px rgb(233, 225, 225)
+                        0px 0px 5px white;
+    /* margin: 12px 0px 22px 0px; */
+}
+
+.trello-footer p{
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 20px;
+
+}
+
+.trello-footer .col-2 p:nth-child(2){
+    cursor: pointer;
+}
+
+
+.trello-footer .col-2 p:nth-child(3){
+    /* background-color: red; */
+    margin-top: 30px;
+}
+
+.trello-footer span{
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 14px;
+}
+
+
+.ldiv{
+    margin-top: 30px;
+}
+
+
+.ldiv .col-6{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.ldiv .col-lg-6 a{
+    color:  white;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 13px;
+    padding: 0px 12px;
+    text-decoration: none;
+    transition: all .5s;
+}
+
+.ldiv .col-6 a:hover{
+    text-decoration: underline;
+}
+
+
+.ldiv .col-4{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.ldiv .col-4 .fa-brands{
+   cursor: pointer;
+}
+
+/* footer design end here */
+
+
+
